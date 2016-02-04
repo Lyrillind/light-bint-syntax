@@ -1,0 +1,17 @@
+{
+  "name": "light-bint-syntax",
+  "theme": "syntax",
+  "version": "1.0.1",
+  "description": "Atom Light Bint Syntax theme",
+  "keywords": [
+    "light",
+    "adaptive",
+    "syntax",
+    "bint"
+  ],
+  "repository": "https://github.com/MiincGu/light-bint-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.40.0"
+  }
+}
