@@ -1,7 +1,7 @@
 {
   "name": "light-bint-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Atom Light Bint Syntax theme",
   "keywords": [
     "light",
